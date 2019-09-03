@@ -3,4 +3,5 @@
     <string name="test_untuk_update_view">Test untuk update View</string>
     <string name="textview">TextView</string>
     <string name="button">Button</string>
+    <string name="name">Name</string>
 </resources>
